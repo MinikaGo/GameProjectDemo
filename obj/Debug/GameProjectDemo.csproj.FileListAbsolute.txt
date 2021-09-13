@@ -1,0 +1,7 @@
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\bin\Debug\GameProjectDemo.exe.config
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\bin\Debug\GameProjectDemo.exe
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\bin\Debug\GameProjectDemo.pdb
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\obj\Debug\GameProjectDemo.csproj.AssemblyReference.cache
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\obj\Debug\GameProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\obj\Debug\GameProjectDemo.exe
+C:\Users\umit.sinanoglu\source\repos\GameProjectDemo\obj\Debug\GameProjectDemo.pdb
